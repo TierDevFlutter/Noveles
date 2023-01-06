@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724850726022",
+    "firebase_url": "https://noveles-44eb9-default-rtdb.firebaseio.com",
+    "project_id": "noveles-44eb9",
+    "storage_bucket": "noveles-44eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724850726022:android:781e275c9fc9eeb29fad07",
+        "android_client_info": {
+          "package_name": "com.bo.tierdev.noveles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724850726022-pe2kv7lhbevbs5dmrg8ldnru3dm74jc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01H1f3RGVJJ0U2SZ75vWTbB9qMQujk7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724850726022-pe2kv7lhbevbs5dmrg8ldnru3dm74jc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
